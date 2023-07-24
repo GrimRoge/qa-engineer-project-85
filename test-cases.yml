@@ -155,11 +155,11 @@
     - Заполняем имя задания в поле Name
     - Выбираем уровень сложности
     - Выбираем видимость задания
-    - Заполняем пример решений : "101101"  == solution("101101", "101101") "1111"  == solution("1011", "0111")
-    - Заполняем описание на английском : Create a function that sets bits of bitmask to bitstring. Use logical operator OR. Size of bitstring and bitmask are the same
-    - Заполняем описание на русском : Создайте функцию, которая выставляет биты из bitmask в bitstring. Используйте логический оператор ИЛИ. Размеры строк всегда одинаковы
-    - Заполняем input signature : [{"argument_name":"bitstring","type":{"name":"string"}},{"argument_name":"bitmask","type":{"name":"string"}}]
-    - Заполняем output signature : {"type":{"name":"string"}}
+    - Заполняем пример решений
+    - Заполняем описание на английском
+    - Заполняем описание на русском
+    - Заполняем input signature
+    - Заполняем output signature
     - Нажимаем Create task
   expected-result: |
     Произойдёт создание нового задания
